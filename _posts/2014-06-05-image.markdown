@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Aurora Borealis"
+date:   2014-06-05 15:34:20
+categories: image 
+---
+
+![Aurora Borealis]({{ site.url }}/_figures/1024px-Aurora_borealis_above_Lyngenfjorden,_2012_March.jpg)
