@@ -1,7 +1,8 @@
 # Site settings
 title: Aurora Borealis
+tagline: "The Northern Lights"
 # email: your-email@domain.com
-description: "Zaki Akhmad"
+description: "The Northern Lights"
 baseurl: ""
 url: "http://za.github.io"
 
