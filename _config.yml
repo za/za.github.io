@@ -1,0 +1,10 @@
+# Site settings
+title: Aurora Borealis
+# email: your-email@domain.com
+description: "Zaki Akhmad"
+baseurl: ""
+url: "http://za.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
