@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Why Aurora Borealis? Aurora Borealis is the name of northern sky lights. I am dreaming, someday I could see Aurora Borealis. 
+Why Aurora Borealis? Aurora Borealis is the name of northern lights. I have a dream that someday I could see this beautiful northern lights. 
