@@ -5,4 +5,6 @@ date:   2014-06-05 15:34:20
 categories: image 
 ---
 
+I am trying to insert image in a post but still failed. 
+
 ![Aurora Borealis]({{ site.url }}/_figures/1024px-Aurora_borealis_above_Lyngenfjorden,_2012_March.jpg)
