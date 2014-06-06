@@ -5,6 +5,6 @@ date:   2014-06-05 15:34:20
 categories: image 
 ---
 
-I am trying to insert image in a post but still failed. 
+![Aurora Borealis](/_figures/1024px-Aurora_borealis_above_Lyngenfjorden,_2012_March.jpg) 
 
-![Aurora Borealis]({{ site.url }}/_figures/1024px-Aurora_borealis_above_Lyngenfjorden,_2012_March.jpg)
+[Image source](http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Aurora_borealis_above_Lyngenfjorden%2C_2012_March.jpg/120px-Aurora_borealis_above_Lyngenfjorden%2C_2012_March.jpg)
