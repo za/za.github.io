@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using SSH Key to Authenticate"
+title:  "Disqus Enabled"
 date:   2014-06-10 10:50:20
 categories: disqus
 ---
