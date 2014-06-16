@@ -2,7 +2,7 @@
 layout: post
 title:  "PyCon APAC 2014 Group Photo"
 date:   2014-06-16 13:44:20
-categories: python pyconapac2014  
+categories: python 
 ---
 
 ![PyCon APAC 2014 Group Photo](/images/pyconapac2014-group-photo.jpg)
