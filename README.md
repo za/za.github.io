@@ -14,5 +14,5 @@ Run:
 
 ``$ ssh-add``
 
-  Enter passphrase for /home/za/.ssh/id_rsa:
-  Identity added: /home/za/.ssh/id_rsa (/home/za/.ssh/id_rsa)
+    Enter passphrase for /home/za/.ssh/id_rsa:
+    Identity added: /home/za/.ssh/id_rsa (/home/za/.ssh/id_rsa)
