@@ -9,7 +9,10 @@ Question:
 * Still need to type password
 
 Run: 
+
 ``$ ssh-agent``
+
 ``$ ssh-add``
-``Enter passphrase for /home/za/.ssh/id_rsa:``
-``Identity added: /home/za/.ssh/id_rsa (/home/za/.ssh/id_rsa)``
+
+  Enter passphrase for /home/za/.ssh/id_rsa:
+  Identity added: /home/za/.ssh/id_rsa (/home/za/.ssh/id_rsa)
