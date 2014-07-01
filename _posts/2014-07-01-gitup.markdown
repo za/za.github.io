@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Menggunakan Gitup untuk Update Repositori Secara Otomatis"
+date: 2014-07-01 14:10:20
+tags: "python-id"
+---
+
+Untuk mempermudah pekerjaan saya (dan mengerjakan hal lain yang lebih mengasyikkan dan menantang), saya memutuskan untuk menambah fitur baru dari [planpin](http://planet.python.or.id). Saya ingin proses update [feed](https://github.com/za/planpin/blob/master/config.ini) dapat dilakukan dengan lebih mudah yaitu dengan update repositori secara otomatis. 
+
+Setelah gagal memecahkan menggunakan bash script, hari ini saya putuskan mencari script python yang mampu memecahkan masalah saya. Akhirnya, saya temukan script [git-repo-updater](https://github.com/earwig/git-repo-updater). Voila! 
