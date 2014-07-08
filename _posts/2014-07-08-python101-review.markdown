@@ -2,7 +2,7 @@
 layout: post
 title: "Mike Driscoll Python 101 Book Review: It's More Than Just 101!"
 date: 2014-07-01 17:10:20
-tags: "python"
+tags: "python", "python-id"
 ---
 
 It's book review time!
@@ -11,7 +11,7 @@ It's book review time!
 
 Finally I got the time to write this book review. I [asked](http://www.blog.pythonlibrary.org/2014/06/03/python-101-book-published-today/) Mike Driscoll whether I could have this book and then I'll review it. It's been a month since Mike sent me this book. The problem is, it's just not easy for me to find time to read :( 
 
-Short words about this book: *It's more than just 101!*. 
+Short words about this book: **It's more than just 101!**. 
 
 I started reading from the table of contents. Rather than reading all of the pages in this book, I skimmed it. This book contains five parts. I started with the first part: the beginner section. I remember two years ago, I watched the Nick Parlente's [Google Python Class](https://developers.google.com/edu/python/). It's not easy for me to find a good materials at that time. And Mike explains really good about introduction to Python here.
 
@@ -37,5 +37,4 @@ Surely this book is very useful. For me, this book is more than just Python 101.
 
 Many thanks for Mike Driscoll for sending me this great book. 
 
-PS: 
- * [Image Source](http://www.blog.pythonlibrary.org/wp-content/uploads/2014/02/mousecovercolor_sm.jpg)
+PS: [Image Source](http://www.blog.pythonlibrary.org/wp-content/uploads/2014/02/mousecovercolor_sm.jpg)
