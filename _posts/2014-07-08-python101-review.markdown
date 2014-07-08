@@ -2,7 +2,7 @@
 layout: post
 title: "Mike Driscoll Python 101 Book Review: It's More Than Just 101!"
 date: 2014-07-01 17:10:20
-tags: "python", "python-id"
+tags: "python" 
 ---
 
 It's book review time!
