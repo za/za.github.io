@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PyCon APAC 2014 Videos"
-date: 2014-07-11 11:20:20
+date: 2014-07-11 10:47:20
 tags: "python" 
 ---
 
