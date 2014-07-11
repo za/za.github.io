@@ -5,7 +5,7 @@ date: 2014-07-11 11:20:20
 tags: "python" 
 ---
 
-After almost [two months](https://tw.pycon.org/2014apac/en/), finally [the PyCon APAC 2014 videos have been released!](http://www.youtube.com/channel/UCHLnNgRnfGYDzPCCH8qGbQw)*(actually it has been uploaded two weeks ago)* 
+After almost [two months](https://tw.pycon.org/2014apac/en/), finally [the PyCon APAC 2014 videos](http://www.youtube.com/channel/UCHLnNgRnfGYDzPCCH8qGbQw) have been released! *(actually it has been uploaded two weeks ago)* 
 
 ![PyCon APAC 2014 Video](/images/pyconapac2014-video.png) 
 
@@ -18,6 +18,6 @@ However I still couldn't find the [keynote speaker](https://tw.pycon.org/2014apa
 
 It's very nice to meet so many people who share the same interest. It was a very great experience for me, for being one in six-hundreds Pythonistas. Even, the Taiwan Pythonistas are very kind and generous. [Jack Tsai](http://twitter.com/jacksctsai) allowed me to stay at his place for one night in Hsinchu by the time I arrived at Taiwan Taoyuan International Airport.  
 
-I believe in a *circle*. We must be in a right circle to help us improve our self. That's why I try consistently organizing a bimonthly [Python Indonesia](http://python.or.id) [meetup](http://www.meetup.com/Python-ID/). We haven't had six-hundreds Pythoneista attendees yet, having our own PyCon sure it's still a long way to go. But we believe with this small meetup it will make a difference, as long we can keep it consistent.
+I believe in a *circle*. We must be in a right circle to help us improve our self. That's why I try consistently organizing a bimonthly [Python Indonesia](http://python.or.id) [meetup](http://www.meetup.com/Python-ID/). We haven't had six-hundreds Pythonistas yet. Having our own [PyCon Indonesia](https://twitter.com/pyconid) sure it's still a long way to go. But we believe with this small meetup it will make a difference in the future, as long we can keep it consistent.
 
 Last words. Sure, I realize still need to learn and practice more about Python. And ... thank you for the PyCon APAC 2014 organizer for organizing such a great events. Thank you Jack Tsai for the hospitality. Thank you Tzer-jen Wei for taking me to Hualien and have [rafting at Xiuguluan River](http://za.github.io/2014/06/13/xiuguluan-river/). Thank you Fernando Perez and Andreas Klockner for a wonderful time spent with. 
