@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Datang ke Python Melbourne Meetup"
-date: 2014-08-14 05:00:20
+date: 2014-08-14 03:56:20
 tags: "python-id" 
 ---
 
