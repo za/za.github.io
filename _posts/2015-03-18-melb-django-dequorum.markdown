@@ -25,4 +25,6 @@ I didn't join the layout discussion because I was still struggling with the envi
 
 And then I was confused. I didn't want git to track changes on the django project directory but I wanted git to track changes on django-dequorum app. I put a symbolic link, still failed. I finally managed with *folder* symbolic link.
 
+Other problem raised after we forked the github repo. How to keep our forked repo updated with funkybob repo? Since I had this problem before so I already knew the answer. I helped my friends on how to add another git remote repository.
+
 I still didn't make any commits to this open source project, but hopefully I could contribute in the future. It was a nice hack weekend with friendly new friends.
