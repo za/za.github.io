@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python: Getting Started with Testing by Ned Batchelder"
-date: 2015-03-18 07:18:20
+date: 2015-05-14 11:55:20
 tags: "python python-testing ned-batchelder pycon"
 ---
 
