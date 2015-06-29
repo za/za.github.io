@@ -55,8 +55,8 @@ to zero then we could throw the exception.
 
 {% highlight python %}
 
-borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(), user=request.user, 
-	borrow_status=True)
+borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(), 
+	user=request.user, borrow_status=True)
 
 if borrowed_books.count() == 0:		
 	raise Http404("You're not borrowing any books")
