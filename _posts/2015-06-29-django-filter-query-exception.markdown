@@ -20,11 +20,10 @@ Example, I am querying database using Django query filter.
 
 {% highlight python %}
 
-	try:
-		borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(),
-							user=request.user, borrow_status=True)
-	except Book.DoesNotExist:
-		raise Http404("You're not borrowing any books")
+try:
+	borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(), user=request.user, borrow_status=True)
+except Book.DoesNotExist:
+	raise Http404("You're not borrowing any books")
 
 {% endhighlight %}
 
@@ -39,12 +38,10 @@ Let's try to debug using the django shell.
 >>> from aurora.apps.users.models import User
 >>> u1 = User.objects.get(email='borrower101@aurora.co')
 >>> from aurora.apps.books.models import Book
->>> borrowing = Book.objects.filter(borrow_date__lte=datetime.today(), user=u,
-				borrow_status=True)
+>>> borrowing = Book.objects.filter(borrow_date__lte=datetime.today(), user=u, borrow_status=True)
 []
 >>> u2 = User.objects.get(email='borrower102@aurora.co')
->>> borrowing = Book.objects.filter(borrow_date__lte=datetime.today(), user=u,
-				borrow_status=True)
+>>> borrowing = Book.objects.filter(borrow_date__lte=datetime.today(), user=u, borrow_status=True)
 [<Book: Dahl, Roald>, <Book: Griffith, Andy>]
 
 {% endhighlight %}
@@ -55,10 +52,10 @@ to zero then we could throw the exception.
 
 {% highlight python %}
 
-	borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(),
-						user=request.user, borrow_status=True)
-	if borrowed_books.count() == 0:		
-		raise Http404("You're not borrowing any books")
+borrowed_books = Book.objects.filter(borrow_date__lte=datetime.today(), user=request.user, borrow_status=True)
+
+if borrowed_books.count() == 0:		
+	raise Http404("You're not borrowing any books")
 
 {% endhighlight %}
 
