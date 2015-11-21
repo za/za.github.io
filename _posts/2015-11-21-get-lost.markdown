@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Get Lost"
+date: 2015-11-06 7:17:24
+tags: "getlost multiple-monitors melbdjangocamp melbdjango"
+---
+
+Working with multiple monitors seem like a programmer's heaven. Yes, it is. I 
+like it. And now, I really enjoying my first vertical screen ever. Unfortunately 
+I might only use this rotateable monitor this weeend.
+
+The difficult thing about working with multiple monitors (then multiple tabs) is 
+finding which the tab that currently you need it. Sometimes I need to scroll 
+each tab to find the right tab and move mouse pointer to other monitors.
+
+And the other _get lost_ thing is when english is not your native language. You 
+might miss the context in a informal conversation since mostly I learn english 
+in a formal context.
+
+I am a bit tired actually when writing this post. I've tried to get my Django 
+app to return JSON value. Now I need to visualize this using d3.js In the 
+morning, we had a djangolow-down by Mitch and we just finished OWASP Top 10 in 
+Django by Brenton.
+
+Then when I tried to post a blog on my wordpress blog, the Internet was not 
+working. So, I wrote this blog in a git post. Hopefully the `git push` will 
+work. 
